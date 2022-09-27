@@ -120,6 +120,4 @@ let json=JSON.stringify(BMWAndAudi)
 console.log(json);
 
 
-console.log("heelo")
-
 
