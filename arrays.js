@@ -71,7 +71,7 @@ for(let i=0;i<inventory.length;i++){
 }
 
 // console.log(`Car 33 is a *car year goes here* *car make goes here* *car model goes here*` );
-console.log("details of car id 33")
+
 console.log(`Car 33 is a ${car_details["car_year"]} ${car_details["car_make"]} ${car_details["car_model"]}` );
 
 
